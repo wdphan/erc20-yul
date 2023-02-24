@@ -1,27 +1,10 @@
-# foundry-template • [![CI](https://github.com/transmissions11/foundry-template/actions/workflows/tests.yml/badge.svg)](https://github.com/transmissions11/foundry-template/actions/workflows/tests.yml)
+# ERC20 Yul
 
-Streamlined template for getting started with Foundry and Solmate.
+> ERC20 Implementation in Yul
+Used to practice coding in Yul. Obviously, not optimal for production. Please do not use, thanks!
 
-## Contributing
+[Contract Source](src)
 
-You will need a copy of [Foundry](https://github.com/foundry-rs/foundry) installed before proceeding. See the [installation guide](https://github.com/foundry-rs/foundry#installation) for details.
+## License
 
-### Setup
-
-```sh
-git clone https://github.com/transmissions11/foundry-template.git
-cd foundry-template
-forge install
-```
-
-### Run Tests
-
-```sh
-forge test
-```
-
-### Update Gas Snapshots
-
-```sh
-forge snapshot
-```
+This script is open-source and licensed under the MIT License. For more details, check the [LICENSE](LICENSE) file.
